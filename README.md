@@ -6,6 +6,7 @@
 * Cardenas Pinedo Kevin Salvador
 * Chávez Hurtado Avelino
 * Diaz Cruz José Ismael
+* Domínguez Duran Oscar Alejandro
 * Esqueda Ortiz Andrea Guadalupe
 * Garibay Guerra Luis Angel
 * Jaime Padilla José Antonio
